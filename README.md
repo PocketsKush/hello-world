@@ -1,2 +1,5 @@
 # hello-world
-Just the usual start.
+
+Hey all,
+
+Just the usual starter.
